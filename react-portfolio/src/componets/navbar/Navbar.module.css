@@ -1,6 +1,6 @@
 @import "../../vars.css";
 
-.navbar{
+.navbar {
     position: relative;
     display: flex;
     align-items: center;
@@ -10,19 +10,19 @@
     margin: 0 10%;
 }
 
-.title{
+.title {
     font-size: 30px;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text);
 }
 
-.menu{
+.menu {
     display: flex;
 
 }
 
-.menuItems{
+.menuItems { 
     display: flex;
     gap:  47px;
     list-style: none;
