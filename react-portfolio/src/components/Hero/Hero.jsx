@@ -8,7 +8,9 @@ export const Hero = () => {
             <p className={styles.description}>
                 I'm a Software Developer who experience 
                 with Java, Python, C#, Unity, React, 
-                NodeJS and more. Reach out if you'd like to learn more! 
+                and more.
+                <p></p>                             
+                Reach out if you'd like to learn more! 
             </p>
             <a href= "mailto:shlomoyalo8@gmail.com" className={styles.contactBtn}>
                 Contact Me
