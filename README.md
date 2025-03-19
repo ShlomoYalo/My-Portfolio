@@ -1,7 +1,9 @@
 🌐 React Portfolio
+
 A personal portfolio website built with React and styled using CSS. The portfolio showcases my projects, skills, and contact information.
 
 🚀 Features
+
   ✅ Modern & Responsive UI – Fully responsive with clean UI/UX design.
   
   ✅ React Components – Modular and reusable components for easy maintenance.
@@ -15,6 +17,7 @@ A personal portfolio website built with React and styled using CSS. The portfoli
   ✅ Deployed Online – Hosted using GitHub Pages, Vercel, or Netlify.
 
 🛠️ Tech Stack 
+
    React.js – Frontend framework
    
    CSS – Styling and animations
