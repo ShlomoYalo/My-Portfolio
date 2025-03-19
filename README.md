@@ -85,14 +85,21 @@ To add a new project, update src/data/projects.json:
 You can deploy this portfolio using:
 
 GitHub Pages:
-  npm run deploy
-  Vercel: Connect your GitHub repo and deploy.
-  Netlify: Drag and drop your build folder or connect via GitHub.
+
+    npm run deploy
+  Vercel: 
+  
+    Connect your GitHub repo and deploy.
+  Netlify: 
+  
+    Drag and drop your build folder or connect via GitHub.
   
 📌 License
+
    This project is open-source and available under the MIT License.
 
 👨‍💻 Author
+
  🔹 Shlomo Yalo
  
 
