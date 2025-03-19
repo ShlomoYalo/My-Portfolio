@@ -2,25 +2,25 @@
     {
       "title": "Blackjack",
       "imageSrc": "projects/blackjackImage.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Blackjack Game for PC and Mobile, written in C#, using Unity",
       "skills": ["C#", "Unity", "SQLite"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/ShlomoYalo/Blackjack_Game"
     },
     {
       "title": "ToDoList",
       "imageSrc": "projects/toDoListImage.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Web application written in Java, using HTML, CSS and Javascript",
       "skills": ["Java", "Html", "CSS", "JS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/ShlomoYalo/DoToList---Web-App"
     },
     {
       "title": "My Portfolio",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "website built with React, CSS, HTML, and JSON packages.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/ShlomoYalo"
     }
   ]
