@@ -3,10 +3,15 @@ A personal portfolio website built with React and styled using CSS. The portfoli
 
 🚀 Features
   ✅ Modern & Responsive UI – Fully responsive with clean UI/UX design.
+  
   ✅ React Components – Modular and reusable components for easy maintenance.
+  
   ✅ Dynamic Data Handling – Uses JSON files for easy project updates.
+  
   ✅ Smooth Animations – Implemented using CSS transitions & animations.
+  
   ✅ Dark Mode (Optional) – Toggle between light and dark themes.
+  
   ✅ Deployed Online – Hosted using GitHub Pages, Vercel, or Netlify.
 
 🛠️ Tech Stack
@@ -21,13 +26,17 @@ A personal portfolio website built with React and styled using CSS. The portfoli
 📥 Installation & Setup
 
    Clone the repository:
+   
    git clone https://github.com/ShlomoYalo/react-portfolio.git
+   
    cd react-portfolio
    
    Install dependencies:
-     npm install
+    
+    npm install
    
    Run the project locally:
+   
      npm start
     The portfolio will be available at http://localhost:3000/.
 
