@@ -27,9 +27,8 @@ A personal portfolio website built with React and styled using CSS. The portfoli
 
    Clone the repository:
    
-   git clone https://github.com/ShlomoYalo/react-portfolio.git
-   
-   cd react-portfolio
+    git clone https://github.com/ShlomoYalo/react-portfolio.git
+    cd react-portfolio
    
    Install dependencies:
     
@@ -39,24 +38,24 @@ A personal portfolio website built with React and styled using CSS. The portfoli
    
      npm start
     The portfolio will be available at http://localhost:3000/.
-
-📂 react-portfolio
-│── 📂 src
-│   │── 📂 components    # Reusable React components (Navbar, Footer, Projects, etc.)
-│   │── 📂 assets        # Images, icons, and other static files
-│   │── 📂 data          # JSON files for projects and skills
-│   │── App.js          # Main app component
-│   │── index.js        # Entry point of the React app
-│── 📂 public
-│   │── index.html      # Main HTML template
-│── package.json       # Project dependencies & scripts
-│── README.md          # Project documentation
+## 📂 Project Structure
+    📂 react-portfolio
+    │── 📂 src
+    │   │── 📂 components    # Reusable React components (Navbar, Footer, Projects, etc.)
+    │   │── 📂 assets        # Images, icons, and other static files
+    │   │── 📂 data          # JSON files for projects and skills
+    │   │── App.js          # Main app component
+    │   │── index.js        # Entry point of the React app
+    │── 📂 public
+    │   │── index.html      # Main HTML template
+    │── package.json       # Project dependencies & scripts
+    │── README.md          # Project documentation
 
  
 
 🌎 Live Demo
 
-🔗 Portfolio Website https://shlomoyalo-portfolio.netlify.app/
+    🔗 Portfolio Website https://shlomoyalo-portfolio.netlify.app/
 
 📄 How to Add Projects:
 
