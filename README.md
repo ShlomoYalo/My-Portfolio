@@ -63,21 +63,22 @@ Projects are stored in a JSON file for easy updates.
 
 To add a new project, update src/data/projects.json:
   [
-    {
-      "title": "Blackjack Game",
-      "description": "A 2D blackjack game built with Unity and Firebase.",
-      "tech": ["C#", "Unity", "Firebase"],
-      "repo": "https://github.com/ShlomoYalo/Blackjack_Game",
-      "demo": "https://your-game-demo-link.com"
-    },
-    {
-      "title": "React Portfolio",
-      "description": "A personal portfolio website built with React.",
-      "tech": ["React", "CSS", "JavaScript"],
-      "repo": "https://github.com/ShlomoYalo/react-portfolio",
-      "demo": "https://your-portfolio-link.com"
-    }
-  ]
+  {
+    "title": "Blackjack Game",
+    "description": "A 2D blackjack game built with Unity and Firebase.",
+    "tech": ["C#", "Unity", "Firebase"],
+    "repo": "https://github.com/ShlomoYalo/Blackjack_Game",
+    "demo": "https://your-game-demo-link.com"
+  },
+  {
+    "title": "React Portfolio",
+    "description": "A personal portfolio website built with React.",
+    "tech": ["React", "CSS", "JavaScript"],
+    "repo": "https://github.com/ShlomoYalo/react-portfolio",
+    "demo": "https://your-portfolio-link.com"
+  }
+]
+
   
 🚀 Deployment
 You can deploy this portfolio using:
