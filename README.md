@@ -14,7 +14,7 @@ A personal portfolio website built with React and styled using CSS. The portfoli
   
   ✅ Deployed Online – Hosted using GitHub Pages, Vercel, or Netlify.
 
-🛠️ Tech Stack
+🛠️ Tech Stack 
    React.js – Frontend framework
    
    CSS – Styling and animations
@@ -62,7 +62,6 @@ A personal portfolio website built with React and styled using CSS. The portfoli
 Projects are stored in a JSON file for easy updates.
 
 To add a new project, update src/data/projects.json:
-
   [
     {
       "title": "Blackjack Game",
