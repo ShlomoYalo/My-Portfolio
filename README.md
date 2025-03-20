@@ -26,21 +26,6 @@ A personal portfolio website built with React and styled using CSS. The portfoli
    
    React Router – Enables smooth navigation (if applicable)
    
-📥 Installation & Setup
-
-   Clone the repository:
-   
-    git clone https://github.com/ShlomoYalo/react-portfolio.git
-    cd react-portfolio
-   
-   Install dependencies:
-    
-    npm install
-   
-   Run the project locally:
-   
-     npm start
-    The portfolio will be available at http://localhost:3000/.
 ## 📂 Project Structure
     📂 react-portfolio
     │── 📂 src
@@ -53,8 +38,6 @@ A personal portfolio website built with React and styled using CSS. The portfoli
     │   │── index.html      # Main HTML template
     │── package.json       # Project dependencies & scripts
     │── README.md          # Project documentation
-
- 
 
 🌎 Live Demo
 
